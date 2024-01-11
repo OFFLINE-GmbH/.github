@@ -1,6 +1,6 @@
 
 
-## Welcome to 🔴 OFFLINE 👋
+## Welcome to 🔴 OFFLINE 
 
 We're a Swiss-based software development agency with over 10 years of experience crafting innovative web applications for a diverse range of clients. We specialize in:
 
