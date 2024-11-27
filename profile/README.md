@@ -1,6 +1,6 @@
 
 
-## Welcome to 🔴 OFFLINE 
+## Welcome to OFFLINE 
 
 We're a Swiss-based software development agency with over 10 years of experience crafting innovative web applications for a diverse range of clients. We specialize in:
 
@@ -10,6 +10,3 @@ We're a Swiss-based software development agency with over 10 years of experience
   
 Our team of experienced developers is driven by a passion for technology and a commitment to excellence. We're constantly learning and evolving, always striving to deliver the best possible solutions for our clients.
 
-### 💻 We're hiring!
-
-If you're a talented developer looking for a challenging and rewarding environment, [join our team](https://jobs.offline.ch/) and help us make a difference!
